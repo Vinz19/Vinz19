@@ -1,6 +1,13 @@
 ### Ciao there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vincenzo, but you can call me Vinz!
+
+---
 ![GitHub followers](https://img.shields.io/github/followers/Vinz19?style=social)
 
+I'm a Developer Fullstack in JS/React Student at <a href="https://www.wildcodeschool.com/en-GB"> Wild Code School </a> in Paris!
+
+
+
+---
 
 <!--
 **Vinz19/Vinz19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
