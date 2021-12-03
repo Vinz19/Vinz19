@@ -9,12 +9,19 @@
 - 💬 Looking for an internship contract!
 - 🌱 I am at the beginning of my career and I am enthusiastic and ready to learn and take on new challenges!
 
+---
+
+🧰 Toolbox
 
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/> 
 
 ---
 
-[![Vinz's github stats](https://github-readme-stats.vercel.app/api?username=Vinz19&count_private=true&show_icons=true&theme=gruvbox &hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/Vinz19/github-readme-stats"><img alt="Vinz's Github stats" src="https://github-readme-stats.vercel.app/api?username=Vinz19&theme=gruvbox" /></a>
+<a href="https://github.com/Vinz19/github-readme-stats%22%3E"><img alt="Vinz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinz19&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 
 <!--
 **Vinz19/Vinz19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
