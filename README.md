@@ -1,6 +1,6 @@
 # Ciao there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vincenzo, but you can call me Vinz!
 
----
+
 ![GitHub followers](https://img.shields.io/github/followers/Vinz19?style=social)
 
 #### I'm a Developer Fullstack in JS/React Student at <a href="https://www.wildcodeschool.com/en-GB"> Wild Code School </a> in Paris!
@@ -9,12 +9,27 @@
 - 💬 Looking for an internship contract!
 - 🌱 I am at the beginning of my career and I am enthusiastic and ready to learn and take on new challenges!
 
+
+#### You can find me on 
+<a href="https://www.linkedin.com/in/vincenzo-lo-grande/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="40"/> <a href="vincenzologrande2@gmail.com/"> <img src="https://github.com/fgnass/gmail-app/blob/master/icon.iconset/icon_256x256.png" alt="gmail" width="35" height="40"/>
+  
+  
 ---
 
-🧰 Toolbox
+
+## 🧰 Toolbox
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react"  width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
+
+
+
+## More
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wp" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/>
 
 ---
 
