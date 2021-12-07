@@ -3,6 +3,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Vinz19?style=social)
 
+![](https://api.ghprofile.me/view?username=Vinz19&style=social)
+
+
 #### I'm a Developer Fullstack in JS/React Student at <a href="https://www.wildcodeschool.com/en-GB"> Wild Code School </a> in Paris!
 - 👩🏽‍💻 I'm Italian, currently living in Paris, speaking Italian, French and a little bit English, open to work in Paris or all over the world!
 - 🔭 In this moment I'm studying & working in different projets (frontend and backend) and I'm using JavaScript with React and Nodejs
