@@ -11,7 +11,7 @@
 
 
 #### You can find me on 
-<a href="https://www.linkedin.com/in/vincenzo-lo-grande/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="40"/> <a href="https://mail.google.com/mail/vincenzo/lo/grande"> <img src="https://github.com/fgnass/gmail-app/blob/master/icon.iconset/icon_256x256.png" alt="gmail" width="35" height="40"/>
+<a href="https://www.linkedin.com/in/vincenzo-lo-grande/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="40"/> <a href="mailto:vincenzologrande2@gmail.com"> <img src="https://github.com/fgnass/gmail-app/blob/master/icon.iconset/icon_256x256.png" alt="gmail" width="35" height="40"/>
   
   
 ---
