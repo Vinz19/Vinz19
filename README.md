@@ -1,7 +1,8 @@
 # Ciao there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vincenzo, but you can call me Vinz!
 
 
-![GitHub followers](https://img.shields.io/github/followers/Vinz19?style=social)  ![](https://api.ghprofile.me/view?username=Vinz19&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Vinz19?style=social)  ![](https://komarev.com/ghpvc/?username=Vinz19&color=yellow)
+
 
 
 #### I'm a Developer Fullstack in JS/React Student at <a href="https://www.wildcodeschool.com/en-GB"> Wild Code School </a> in Paris!
@@ -18,7 +19,7 @@
 ---
 
 
-## 🧰 I'm learning
+## 🧰 I'm learning ![](https://api.ghprofile.me/view?username=Vinz19&style=social)
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react"  width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
