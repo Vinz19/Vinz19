@@ -1,4 +1,4 @@
-# Ciao there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vincenzo, but you can call me Vinz!
+# Ciao there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I am Vincenzo, but you can call me Vinz!
 
 
 ![GitHub followers](https://img.shields.io/github/followers/Vinz19?style=social)  ![](https://komarev.com/ghpvc/?username=Vinz19&color=yellow)
