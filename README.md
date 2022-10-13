@@ -8,7 +8,7 @@
 #### I'm a Developer Fullstack in JS/React Student at <a href="https://www.wildcodeschool.com/en-GB"> Wild Code School </a> in Paris!
 - 👩🏽‍💻 I'm Italian, currently living in Paris, speaking Italian, French and a little bit English, open to work in Paris or all over the world!
 - 🔭 In this moment I'm studying & working in different projets (frontend and backend) and I'm using JavaScript with React and Nodejs
-- 💬 I'm in internship at Disneyland Paris for 6 months!
+- 💬 I work as Junior Web Developer at Disneyland Paris!
 - 🌱 I am at the beginning of my career and I am enthusiastic and ready to learn and take on new challenges!
 
 
